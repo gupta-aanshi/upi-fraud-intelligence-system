@@ -92,6 +92,8 @@ This reveals:
 
 ## Dashboard
 
+![Dashboard Demo](images/dashboard_demo.gif)
+
 Built with **Streamlit**, the dashboard presents:
 
 - Total transaction volume and fraud rate
