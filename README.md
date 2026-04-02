@@ -12,7 +12,7 @@
 
 ## 🌐 Live Demo
 
-**Dashboard:** [https://your-dashboard.streamlit.app](https://your-dashboard.streamlit.app)
+**Dashboard:** [https://upi-fraud-intelligence-system.streamlit.app/](https://upi-fraud-intelligence-system.streamlit.app/)
 
 ---
 
