@@ -10,6 +10,12 @@
 
 ---
 
+## 🌐 Live Demo
+
+**Dashboard:** [https://your-dashboard.streamlit.app](https://your-dashboard.streamlit.app)
+
+---
+
 ## What This Project Does
 
 UPI fraud rarely announces itself. It hides in timing, in transaction volume, in networks of accounts that seem unrelated until you map them.
@@ -86,8 +92,6 @@ This reveals:
 
 ## Dashboard
 
-![Dashboard](images/dashboard_demo.gif)
-
 Built with **Streamlit**, the dashboard presents:
 
 - Total transaction volume and fraud rate
@@ -116,7 +120,7 @@ Synthetic dataset of **50,000 UPI transactions**, generated to reflect real-worl
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/upi-fraud-intelligence-system.git
+git clone https://github.com/gupta-aanshi/upi-fraud-intelligence-system.git
 cd upi-fraud-intelligence-system
 
 # Install dependencies
@@ -164,9 +168,5 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## Author
 
-**Aanshi Gupta** 
-[GitHub](https://github.com/aanshigupta)
-
----
-
-> *Built to understand how fraud hides — and how data can find it.*
+**Aanshi Gupta**  
+[GitHub](https://github.com/gupta-aanshi)
