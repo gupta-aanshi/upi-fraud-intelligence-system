@@ -51,6 +51,7 @@ XGBoost Fraud Model (Risk Prediction Engine)
 Fraud Score + Risk Classification
        ↓
 Streamlit Dashboard (Fraud Intelligence View)
+```
 
 ---
 
