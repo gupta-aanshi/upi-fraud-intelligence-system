@@ -39,6 +39,7 @@ The **UPI Fraud Pattern Intelligence System** is a production-style machine lear
 
 ## 🏗️ System Architecture
 
+```plaintext
 Transaction Input/User
        ↓
 FastAPI API (/predict)
