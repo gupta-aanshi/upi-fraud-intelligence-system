@@ -39,7 +39,9 @@ The **UPI Fraud Pattern Intelligence System** is a production-style machine lear
 
 ## 🏗️ System Architecture
 
-![System Architecture](images/system_architechture.png)
+<p align="center">
+  <img src="images/system_architecture.png" width="50%"/>
+</p>
 
 ---
 
