@@ -39,9 +39,17 @@ The **UPI Fraud Pattern Intelligence System** is a production-style machine lear
 
 ## 🏗️ System Architecture
 
-<p align="center">
-  <img src="images/system_architecture.png" width="50%"/>
-</p>
+Transaction Input/User
+       ↓
+FastAPI API (/predict)
+       ↓
+Feature Engineering & Transaction Analytics
+       ↓
+XGBoost Fraud Model (Risk Prediction Engine)
+       ↓
+Fraud Score + Risk Classification
+       ↓
+Streamlit Dashboard (Fraud Intelligence View)
 
 ---
 
