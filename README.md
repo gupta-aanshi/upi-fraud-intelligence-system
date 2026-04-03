@@ -255,7 +255,7 @@ Two independent Streamlit dashboards serve different purposes — one for explor
 
 A retrospective view over the full enriched transaction dataset. Displays fraud KPIs, state-wise geographic distribution, hourly activity patterns, SHAP feature importance, the transaction network graph, and a filterable table of all flagged records.
 
-> 🔗 **[Launch Analytics Dashboard →](https://upi-fraud-intelligence-system.streamlit.app/)**
+> 🔗 **[Launch Analytics Dashboard →](https://upi-fraud-intelligence-system-analytics-dashboard.streamlit.app/)**
 
 ![Analytics Dashboard Demo](images/dashboard_analytics_demo.gif)
 
@@ -267,7 +267,7 @@ A retrospective view over the full enriched transaction dataset. Displays fraud 
 
 An interactive form where you input a raw transaction — amount, hour, sender, receiver, device, state — and instantly receive a fraud score, risk level, and SHAP waterfall chart explaining exactly why the transaction was flagged or cleared.
 
-> 🔗 **[Launch Live Prediction Dashboard →](https://upi-fraud-intelligence-system.streamlit.app/)**
+> 🔗 **[Launch Live Prediction Dashboard →](https://upi-fraud-intelligence-system-live-dashboard.streamlit.app/)**
 
 ![Live Prediction Demo](images/live_prediction_demo.gif)
 
