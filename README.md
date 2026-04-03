@@ -357,7 +357,3 @@ See the [LICENSE](LICENSE) file for the full terms.
 
 **Aanshi Gupta**  
 [github.com/gupta-aanshi](https://github.com/gupta-aanshi)
-
----
-
-*Built to find what looks almost normal — but isn't.*
